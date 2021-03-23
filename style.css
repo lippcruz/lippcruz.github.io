@@ -7,7 +7,7 @@ footer img{
     width: 30px;
 }
 
-a{
+a:link, a:hover, a:active, a:visited{
     color: #eee;
     font: bold;
 }
