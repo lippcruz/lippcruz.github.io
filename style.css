@@ -6,3 +6,8 @@ body{
 footer img{
     width: 30px;
 }
+
+a{
+    color: #eee;
+    font: bold;
+}
