@@ -8,6 +8,7 @@ footer img{
 }
 
 a:link, a:hover, a:active, a:visited{
+    text-decoration: none;
     color: #eee;
     font: bold;
 }
